@@ -14,4 +14,4 @@ Development Tools:
 
 Platform: Unity3D.
 Language: C#.
-This shortened version retains the core information but in a more succinct format, perfect for quick overviews or brief project documentation.
+Characters and animations: Mixamo
