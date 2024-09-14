@@ -13,5 +13,7 @@ Objective: Complete tasks and find the maze exit while defeating monsters.
 Development Tools:
 
 Platform: Unity3D.
+
 Language: C#.
+
 Characters and animations: Mixamo
