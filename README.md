@@ -1,7 +1,7 @@
 # Unity3D_FPS_Maze_Game
 # Personal Project:
 
-Description: A first-person shooter game in Unity where players navigate a maze, complete tasks, and battle monsters.
+Description: A first-person shooter game in Unity where a player needs to navigate a maze, complete tasks, and battle monsters.
 
 Features:
 
