@@ -17,3 +17,7 @@ Platform: Unity3D.
 Language: C#.
 
 Characters and animations: Mixamo
+
+## Download the Game
+
+You can download the latest version of the game here: [Download Game](https://github.com/Ofek-Weiss/Unity3D_FPS_Maze_Game/releases/latest)
