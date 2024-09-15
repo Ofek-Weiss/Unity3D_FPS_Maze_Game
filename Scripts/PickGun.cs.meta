@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 92111cec640babd4096bd3a5250e2480
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gunInBox: {instanceID: 0}
+  - gunInHand: {instanceID: 0}
+  - GunIcon: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
